@@ -1,2 +1,1 @@
-# 3D_Spine_Segmentation
-Segment Spine from 3D images using Unet
+# Optimized High Resolution 3D Dense-U-Net Network for Spine Segmentation
